@@ -1,0 +1,65 @@
+.nav-item:hover {
+    background-color: darkgreen;
+  }
+  .carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+  .carousel-item img {
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+  }
+  .col-lg-4 img {
+    object-fit: cover;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-right: auto;
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+  }
+  .marketing {
+    text-align: center;
+  }
+  .col-md-7 { 
+    padding-top: 10%;
+  }
+  .fade-in-image {
+    animation: fadeIn 5s;
+  }
+  @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+  }
+  .links img{
+    height: 3%;
+    width: 3%;
+  }
+  .col-lg-2 button  {
+    background-color: darkseagreen;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  .col-lg-2 .card img {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .container button {
+    margin-top: 25px;
+    margin-bottom: 0;
+    margin-right: 0px;
+    margin-left: 10px;
+  }
+    .container2  {
+      text-align: center;
+    }
+    
+  
